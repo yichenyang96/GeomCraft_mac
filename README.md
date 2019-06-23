@@ -1,7 +1,7 @@
 # GeomCraft_mac
 GeomCraft mac build version
 
-Please download whole folder to play
+Please download whole folder to play and watch the introduction video :)
 
 Use the right stick to spawn a wheel of the soldiers and their info. 
 
